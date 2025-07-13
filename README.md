@@ -9,11 +9,11 @@ Every day, I solve **5 challenges** in Solidity on [Codewars](https://www.codewa
 
 | Day | Challenges Solved | Folder Link |
 |-----|-------------------|-------------|
-| ✅ Day_01 | 5 Challenges | [Day01](./Day_01) |
-| ⬜ Day_02 | Coming Soon... | |
-| ⬜ Day_03 | Coming Soon... | |
-| ⬜ Day_04 | Coming Soon... | |
-| ⬜ Day_05 | Coming Soon... | |
+| ✅ Day 01 | 5 Challenges | [Day_01](./Day_01) |
+| ⬜ Day 02 | Coming Soon... | |
+| ⬜ Day 03 | Coming Soon... | |
+| ⬜ Day 04 | Coming Soon... | |
+| ⬜ Day 05 | Coming Soon... | |
 
 _Updating daily..._
 
