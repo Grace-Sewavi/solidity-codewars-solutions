@@ -11,7 +11,7 @@ Every day, I solve **5 challenges** in Solidity on [Codewars](https://www.codewa
 |-----|-------------------|-------------|
 | ✅ Day 01 | 5 Challenges | [Day_01](./Day_01) |
 | ✅ Day 02 | 5 Challenges | [Day_02](./Day_02) |
-| ⬜ Day 03 | Coming Soon... | |
+| ✅ Day 03 | 5 Challenges | [Day_03](./Day_03) |
 | ⬜ Day 04 | Coming Soon... | |
 | ⬜ Day 05 | Coming Soon... | |
 
