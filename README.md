@@ -13,7 +13,14 @@ Every day, I solve **5 challenges** in Solidity on [Codewars](https://www.codewa
 | ✅ Day 02 | 5 Challenges | [Day_02](./Day_02) |
 | ✅ Day 03 | 5 Challenges | [Day_03](./Day_03) |
 | ✅ Day 04 | 5 Challenges | [Day_04](./Day_04) |
-| ⬜ Day 05 | Coming Soon... | |
+| ✅ Day 05 | # No Challenges Available
+
+There are no challenges available for the selected language.
+
+You may have selected a language which  does not have a lot of published content available.
+
+Try changing either the language or the training type to get more results.
+| [Day_05](./Day_05) |
 
 _Updating daily..._
 
